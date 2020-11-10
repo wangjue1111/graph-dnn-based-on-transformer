@@ -1,0 +1,10 @@
+input_size: 500
+embedding_size: 32
+num_layers: 8
+num_heads: 8
+hidden: 32
+dropout: 0.2
+batch: 4
+seq_size: 50
+epoch: 100
+devices: 1
